@@ -1,7 +1,7 @@
 ## Auto call skype to obtain CID    
 
 ###### Telegram bot: @laomms   @bkkmms    
-###### Telegram group: t.me/get_cid    
+###### Telegram group: https://t.me/get_cid  https://t.me/gtecid2    
 ![image](https://github.com/laomms/AutoCallCID/blob/laomms/tg.png)    
 
 
