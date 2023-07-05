@@ -17,8 +17,7 @@
 ###### CID获取群1：535961469   
 ###### CID获取群2：795085239   
 ###### CID获取群3：795120273  
-###### CID获取群4：3312340661
-
+###### CID获取群4：795895111  
 
 ![image](https://github.com/laomms/AutoCallCID/blob/laomms/pic.png)    
 
