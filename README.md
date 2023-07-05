@@ -2,6 +2,7 @@
 
 ###### Telegram bot: @laomms   @bkkmms    
 ###### Telegram group: https://t.me/get_cid  https://t.me/gtecid2    
+##### Join group or add as a friend to get 5 trial opportunities   
 ![image](https://github.com/laomms/AutoCallCID/blob/laomms/tg.png)    
 
 
