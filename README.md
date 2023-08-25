@@ -6,7 +6,7 @@
 ![image](https://github.com/laomms/AutoCallCID/blob/laomms/tg.png)    
 
 
-#### 鉴于很多地方因为区域原因拨打不了。改用QQ机器人帮忙获取。
+#### QQ机器人获取。
 
 ###### QQ机器人1：3390735069  
 ###### QQ机器人2：1223585392  
